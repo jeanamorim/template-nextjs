@@ -4074,10 +4074,10 @@
   dependencies:
     tslib "^2.4.0"
 
-"@swc/jest@^0.2.30":
-  version "0.2.30"
-  resolved "https://registry.yarnpkg.com/@swc/jest/-/jest-0.2.30.tgz#ad561bf90d1090ec0b71d54878f85a82d3af781f"
-  integrity sha512-80KKC6GYvgrpX1/7yKsRbu88V6OAJIcMGzOLCt0pPSg1nEwJg/lLAodVy2hCD8OcYApmY5gSwD4SnwgA5Y7Q7A==
+"@swc/jest@^0.2.34":
+  version "0.2.34"
+  resolved "https://registry.yarnpkg.com/@swc/jest/-/jest-0.2.34.tgz#1d459171887b11855ec01d73c647f2e9ecaffd7b"
+  integrity sha512-MrS4m3yHFfnkYjxr3eqxshWi6fVhPViHQsb6XfiTO81niwEqYXeR58YhGJee6R0bfQHC69cv5OJ9+dYTYaYKRg==
   dependencies:
     "@jest/create-cache-key-function" "^29.7.0"
     jsonc-parser "^3.2.0"
